@@ -1,0 +1,8 @@
+streamlit
+Pillow
+PyPDF2
+deep-translator
+ollama
+SpeechRecognition
+gTTS
+requests
