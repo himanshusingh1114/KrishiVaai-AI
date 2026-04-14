@@ -6,3 +6,4 @@ ollama
 SpeechRecognition
 gTTS
 requests
+PyPDF2
